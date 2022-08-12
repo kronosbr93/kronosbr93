@@ -24,7 +24,7 @@ from selenium.webdriver.common.by import By
 
 # Por informações do seu bot.########
 api_key = '5504904827:AAF_9Cg9BEVMgmxQfYB41U6bp7DUTKlQ6DA'  
-chat_id = 'https://t.me/+Ro83Y55GRW41YzVh' # ID DO CANAL pladix
+chat_id = '@SinaisvipKronos' # ID DO CANAL pladix
 #####################################
 bot = telebot.TeleBot(token=api_key)
 
